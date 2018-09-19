@@ -7,10 +7,20 @@
   margin: 0 auto;
 }
 
-a.active {
+.active {
   color: orange;
 }
 
 nav {
   padding-top: 20px;
+}
+
+.form {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.form .form-control {
+  width: 50%;
+  margin-bottom: 1em;
 }
